@@ -2,9 +2,9 @@
 
 **Student credentials**
 
-Name : Menna Tolla Amr
+Name : Menna  Tolla  Amr
 
-Group With Professor:  G2
+Group  With Professor:  G2
 
 Section Time : Tuesday 3 - 4 
 
