@@ -1,9 +1,9 @@
-# Team Hub
+# Project 1 Git and GitHub Task
 
-A small practice website for learning Git and GitHub.
+**Student credentials**
 
-## Run
-Open index.html in a browser.
-
-## Team
-- Instructor
+Name : Menna Tolla Amr
+Group With Professor:  G2
+Section Time : Tuesday 3 - 4 
+id :  512395129
+ 
