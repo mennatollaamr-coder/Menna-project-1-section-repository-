@@ -1,6 +1,6 @@
 // TASK 7 (feature/add-your-card): add your own object to this array.
 const team = [
-  { name: "Instructor", role: "Project Lead" }
+  { name: "Menna Tolla", role: "G2" }
 ];
 
 function renderTeam() {
